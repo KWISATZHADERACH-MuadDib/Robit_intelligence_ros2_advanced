@@ -1,0 +1,4 @@
+turtle_follower:
+  ros__parameters:
+    k_ang: 5.0
+    k_lin: 0.7
